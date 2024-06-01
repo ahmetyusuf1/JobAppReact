@@ -1,0 +1,31 @@
+{
+  "jobs": [
+    {
+      "id": "746e8fe6-604c-4711-9da6-0030ff8d61cd",
+      "position": "Data Analyst",
+      "company": "Amazon",
+      "location": "Houston",
+      "status": "Interview",
+      "type": "Remote",
+      "date": "11.05.2024"
+    },
+    {
+      "id": "e805fc99-8e05-4089-8a37-3815dd6d8c5c",
+      "position": "Backend Developer",
+      "company": "Arabuleu",
+      "location": "Paris/France",
+      "status": "Rejected",
+      "type": "Part Time",
+      "date": "12.05.2024"
+    },
+    {
+      "id": "b52e1107-818a-49dd-8133-eb888bd07e1b",
+      "position": "Backend Developer",
+      "company": "Microsoft",
+      "location": "New York/US",
+      "status": "Continues",
+      "type": "Full Time",
+      "date": "12.05.2024"
+    }
+  ]
+}
