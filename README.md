@@ -18,7 +18,7 @@
 
 </ul>
 
-<h1>Screen Gif</h1>
+<h1>Screen Gifs</h1>
 
 <img src="/public/jobproject.gif" />
 
