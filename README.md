@@ -1,6 +1,6 @@
 <h1>Job Project React</h1>
 
-<p>job project</p>
+<p>This project is a web application developed with React to track job applications. Users can perform basic operations such as listing, adding, updating and deleting job applications.</p>
 
 <h2>Used Technologies</h2>
 
